@@ -33,10 +33,14 @@ SQL Injection is one of the most dangerous vulnerabilities in web applications, 
 Ensure that you have proper authorization before scanning any web applications. Unauthorized vulnerability scanning is illegal and may result in severe legal consequences.
 
 ## Authors
-- M.G. Wooshan Rukmal Gamage
-Computer Science Undergraduate at the University of Westminster
-LinkedIn(https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/)  
-GitHub(https://github.com/WooshanGamage)
+# M.G. Wooshan Rukmal Gamage
+**Undergraduate | Computer Science**  
+University of Westminster
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Wooshan%20Gamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/)](https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/)
+[![GitHub Badge](https://img.shields.io/badge/-WooshanGamage-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WooshanGamage)](https://github.com/WooshanGamage)
+
+---
 
 ## Acknowledgements
 Special thanks to my parents for their unwavering support and to my team, Encryptix, including Wathsala Dewmina, Rivindu Ahinsa, and Lakindu Minosha, for their insightful discussions and motivation.
