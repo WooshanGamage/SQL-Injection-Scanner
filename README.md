@@ -40,9 +40,6 @@ University of Westminster
 **LinkedIn**: [Wooshan Gamage](https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/)  
 **GitHub**: [WooshanGamage](https://github.com/WooshanGamage)
 
-## Acknowledgements
-Special thanks to my parents for their unwavering support and to my team, Encryptix, including Wathsala Dewmina, Rivindu Ahinsa, and Lakindu Minosha, for their insightful discussions and motivation.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -73,4 +70,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 To run the scanner, execute the following command:
 
 ```bash
-python scanner.py
+python3 SQL_Injection_Scanner.py
