@@ -19,27 +19,6 @@ SQL Injection is one of the most dangerous vulnerabilities in web applications, 
 2. **Payload Injection**: It injects test payloads, such as common SQL injection patterns, into form fields.
 3. **Response Analysis**: The scanner checks the server's response for error messages indicative of SQL injection vulnerabilities.
 
-# SQL Injection Vulnerability Scanner
-
-A Python-based utility designed to enhance web security by automating the detection of SQL injection vulnerabilities in web forms.
-
-## Overview
-
-SQL Injection is one of the most dangerous vulnerabilities in web applications, allowing attackers to manipulate database queries through user input fields. This scanner bridges the gap between complex security tools and practical usage by offering a simple yet powerful solution for identifying SQL injection vulnerabilities.
-
-## Features
-
-- **Automated Scanning**: Detect SQL injection vulnerabilities by injecting test payloads into form fields and analyzing server responses.
-- **Easy to Use**: Command-line interface guides users through scanning processes, suitable for both beginners and professionals.
-- **Form Extraction**: Uses BeautifulSoup to parse HTML and identify form elements automatically.
-- **Error Handling**: Includes robust error detection for common SQL error messages to highlight potential security flaws.
-
-## How It Works
-
-1. **Form Extraction**: The tool parses web forms on the given URL, identifying inputs, actions, and methods (GET/POST).
-2. **Payload Injection**: It injects test payloads, such as common SQL injection patterns, into form fields.
-3. **Response Analysis**: The scanner checks the server's response for error messages indicative of SQL injection vulnerabilities.
-
 ## Limitations
 - Only works with publicly accessible URLs.
 - May not detect vulnerabilities on forms that require authentication or those with suppressed error messages.
