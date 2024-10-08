@@ -37,9 +37,9 @@ Ensure that you have proper authorization before scanning any web applications. 
 **Undergraduate | Computer Science**  
 University of Westminster
 
-**LinkedIn** :  [Wooshan Gamage](https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/)  
-**GitHub**   :  [WooshanGamage](https://github.com/WooshanGamage)  
-**Medium**   :  [WooshanGamage](https://medium.com/@wooshangamage)
+**LinkedIn** &nbsp:  [Wooshan Gamage](https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/)  
+**GitHub**   &nbsp:  [WooshanGamage](https://github.com/WooshanGamage)  
+**Medium**   &nbsp:  [WooshanGamage](https://medium.com/@wooshangamage)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
