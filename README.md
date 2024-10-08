@@ -38,7 +38,8 @@ Ensure that you have proper authorization before scanning any web applications. 
 University of Westminster
 
 **LinkedIn**: [Wooshan Gamage](https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/)  
-**GitHub**: [WooshanGamage](https://github.com/WooshanGamage)
+**GitHub**: [WooshanGamage](https://github.com/WooshanGamage)  
+
 **Medium**: [WooshanGamage](https://medium.com/@wooshangamage)
 
 ## License
